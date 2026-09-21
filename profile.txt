@@ -1,0 +1,29 @@
+NAME: Tikaharu Sharma
+
+EDUCATION
+Currently pursuing a Master's in Computer Science (MSCS) at the University of Florida, with a focus on AI/ML, targeting graduation in May 2027. Completed the first year with a 3.94 GPA. Holds a Bachelor's degree in Computer Engineering from Pulchowk Campus, Tribhuvan University, Nepal. 
+
+CAREER GOALS
+Primary goal is to secure a new grad Software Engineer role in the United States after graduation; AI Engineer roles are a secondary path. Has been focused on this goal since before starting the MS program.
+
+PROFESSIONAL EXPERIENCE
+Worked in full-stack/front-end development at Danphe Software Labs. Built Chitragupta, Danphe's internal HRIS and office-management product, covering leave management, attendance, payroll, and invoicing/accounting. The leave management module used React, Node.js, and PostgreSQL with server-side role-based access control and Nodemailer for approval/rejection email notifications, processing 200+ leave requests for 50+ employees. Rebuilt the company website (danpheit.com) using Next.js and TypeScript with Static Site Generation and WebP image optimization. Built payroll, invoicing, and accounting modules: payroll used node-cron scheduled jobs to auto-calculate salary deductions from leave/attendance records, and generated PDF payslips and client invoices using Puppeteer while tracking payments received and expenses; invoicing served 10+ clients.
+
+Also has prior full-stack/front-end development experience at Partner Technology.
+
+PROJECTS
+
+PrepSheet: A full-stack, multi-tenant restaurant sales management platform built for a 5-6 location Indian restaurant chain in Japan, replacing a manual Google Sheets workflow. Backend is a Go REST API with JWT authentication and PostgreSQL; frontend is React with TypeScript and MUI; deployed on AWS (EC2, RDS, S3, CloudFront, Route 53) with a custom domain, HTTPS, and CI/CD via GitHub Actions. The architecture uses a multi-tenant data model isolating each manager's restaurants, staff, and sales data, with role-based access control distinguishing manager and employee permissions. Key features include daily sales entry with automatic running till-balance reconciliation across payment channels (cash, credit, delivery apps, coupons), accountant-ready reports replicating Japan's dual consumption-tax-rate (8%/10%) system exportable to Excel/PDF, a full audit trail of entries and edits, and invite-code-gated signup. Live at useprepsheet.com.
+
+Hire Nepal: An ML-powered job portal featuring a CV analyzer and an applicant ranking/recommendation system. A long-running project that predates the MS program.
+
+Sort Visualizer: An interactive web application built with React that visualizes sorting algorithms in real time. Built during undergrad. Live at sortvisualizzer.netlify.app.
+
+TECHNICAL SKILLS
+Languages: Go, Python, TypeScript/JavaScript
+Backend: Go, Node.js, REST API design, PostgreSQL
+Frontend: React, TypeScript, Next.js, MUI
+Cloud/DevOps: AWS (EC2, RDS, S3, CloudFront, Route 53), CI/CD with GitHub Actions
+
+INTERESTS
+Follows stock market investing with a buy-and-hold approach. Interested in software engineering and AI engineering career paths
